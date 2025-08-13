@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "start": "OTEL_DENO=true OTEL_SERVICE_NAME=book-api deno -A src/index.ts",
+    "fetcher": "OTEL_DENO=true OTEL_SERVICE_NAME=fetcher deno -A main.ts"
+  }
+}

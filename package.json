@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@opentelemetry/api": "^1.9.0",
+    "@types/express": "^5.0.0",
+    "express": "^5.0.1"
+  }
+}
