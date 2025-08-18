@@ -1,6 +1,7 @@
 # Deno Grafana Example
 
-This repo accompanies this blog post.
+This repo accompanies
+[this blog post](https://grafana.com/blog/2025/08/15/integrating-deno-and-grafana-cloud-how-to-observe-your-javascript-project-with-zero-added-code/).
 
 ## Install
 
